@@ -1,0 +1,19 @@
+html {
+  margin: 0;
+  padding: 0;
+  background: black;
+}
+
+body {
+  max-width: 800px;
+  min-height: 100vw;
+  margin: 0 auto;
+  border-left: 1px black solid;
+  border-right: 1px black solid;
+  background: white;
+}
+
+.banner {
+  width: 100%;
+  margin-bottom: 2rem;
+}
