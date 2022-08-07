@@ -34,6 +34,11 @@ This is a low-traffic email list mostly used for club meeting announcements.
 
 Contact us on Facebook, Instagram or email if you have any questions!  We're happy to help.
 
+## Other Pen Clubs
+
+* [Vancouver Pen Club](https://www.vancouverpenclub.com/)
+* [PDX Pen Club (Portland, OR)](https://pdxpen.com/)
+
 ## COVID Safety
 
 We do meet indoors, and masks are currently optional.  Please stay home if you feel ill or are
